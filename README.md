@@ -1,2 +1,8 @@
 # module_1_project
-Main git repo for the module 1 project
+## Project Members
+
+## Project Goals
+
+## Member Responsibilities
+
+## Summary of Files
