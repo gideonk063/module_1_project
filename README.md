@@ -1,4 +1,4 @@
-# module_1_project
+# Module 1 Project
 ## Project Members
 
 ## Project Goals
