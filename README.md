@@ -9,7 +9,7 @@
 
 **Question 1: popularity/vote average/production budget vs. worldwide gross** 
 
-**Question 2: Crew **
+**Question 2: Crew**
 
 *Dayana:* 
 
