@@ -10,7 +10,8 @@ Question #2: IMDB cast/producer/director/writer vs. performance variations withi
 
 **Dayana:** 
 How Genre & Budget affect Gross in addition to profit/loss analysis
-*Questio4* Studio vs Rotten Tomato Reviews & Box Office
+*Question #4* Studio vs Rotten Tomato Reviews & Box Office
 
 ## Summary of Files
 
+ 
