@@ -6,6 +6,7 @@
 ## Member Responsibilities
 
 *Gideon:*
+
 **Question 1: ** 
 
 **Question 2: **
