@@ -1,6 +1,10 @@
 # Module 1 Project
 ## Project Members
 
+Gideon Kasarek
+
+Dayana Kan
+
 ## Project Goals
 
 ## Member Responsibilities
