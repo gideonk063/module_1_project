@@ -11,9 +11,9 @@ Dayana Kan
 
 *Gideon:*
 
-**Question 1: popularity/vote average/production budget vs. worldwide gross** 
+**Question 1: How do popularity, public perception, and production budget impact worldwide gross?** 
 
-**Question 2: Crew**
+**Question 2: How does the choice of director or lead actor/actress impact profitability?**
 
 *Dayana:* 
 
