@@ -32,3 +32,13 @@ def clean_actor_columns(df):
     df.rename(columns={'primary_name': 'Actor','worldwide_gross': 'Average Worldwide Box Office',
                        'profitability': 'Average Profit per Movie', 'num_of_movies': 'Number of Movies'}, inplace=True)
     return df
+
+def drop_by_less_than_equal_to(df, column_name, value):
+    to_remove = df.loc[df[column_name] <= value]
+    df.drop(index=to_remove.index, inplace=True)
+    return df
+
+def drop_by_not_equal(df, column_name, value):
+    to_remove = df.loc[df[column_name] != value]
+    df.drop(index=to_remove.index, inplace=True)
+    return df
