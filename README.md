@@ -13,7 +13,7 @@ Dayana Kan
 
 **Question 1: How much data is there on profitable, low budget films?**
 
-**Question 2: Is popularity a contributing factor to the relationship of low budget films and profitability?**
+**Question 2: How significant is popularity in contributing to low budget films and profitability?**
 
 *Gideon:* 
 
